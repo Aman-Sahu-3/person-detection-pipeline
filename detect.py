@@ -1,8 +1,4 @@
-"""""
-How to run:
-    python detect.py                       # uses webcam
-    python detect.py --source video.mp4   # uses a video file
-"""
+
 
 import cv2
 import numpy as np
