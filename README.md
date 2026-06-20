@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ```bash
 python detect.py                       # webcam
-python detect.py --source video.mp4   # video file
+python detect.py --source sample.mp4   # video file
 ```
 
 Press `q` to quit.
