@@ -13,7 +13,7 @@ from ultralytics import YOLO
 
 CONF_THRESHOLD = 0.5
 ALERT_COOLDOWN = 2.0 # Without this, "ALERT" would print 30 times per second (once per frame).
-ROI = (200, 150, 550, 450) #   Default values work for a standard 640x480 webcam frame.
+ROI = (190, 40, 550, 850) #   Default values work for a standard 640x480 webcam frame (rx1, ry1, rx2, ry2).
 # ──────────────────────────────────────────────────────────────────────────────
 
 

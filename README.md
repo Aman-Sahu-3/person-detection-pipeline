@@ -43,6 +43,6 @@ Press `q` to quit.
 
 ## Limitations
 
-- ROI is hardcoded — no interactive drawing
-- CPU only — may slow down on high-resolution video
+- ROI is hardcoded, no interactive drawing
+- CPU only may slow down on high-resolution video
 - Single video source at a time
